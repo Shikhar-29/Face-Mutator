@@ -1,0 +1,1 @@
+public interface FaceFile {		public String readLine();	}
